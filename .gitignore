@@ -1,0 +1,28 @@
+# Android Studio Default
+*.iml
+.gradle
+/local.properties
+/.idea/caches/build_file_checksums.ser
+/.idea/libraries
+/.idea/modules.xml
+/.idea/workspace.xml
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+
+
+
+# append
+*.aab
+*.aar
+*.apk
+*.dex
+google-services.json
+/app/gradle.properties
+output.json
+keystore.jks
+/.idea/misc.xml
+/.idea/vcs.xml
+/.idea/kotlinc.xml
+*/build/
